@@ -66,6 +66,10 @@ header {
     color: #606060;
 }
 
+.nav-button {
+    display: none;
+}
+
 /* Header content*/
 
 .header-row {
